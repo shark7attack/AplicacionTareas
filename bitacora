@@ -1,0 +1,19 @@
+$ git init
+
+$ git checkout -b "clase01"
+
+# live server abre en el puerto http://127.0.0.1:5555/
+
+$ git add -abre
+
+$ git commit -m "clase01 completada"
+
+$ git checkout -b "clase02"
+
+# con document.querySelector obtenemos el elemento que queremos 
+# trabajar, le agregamos "data-form-btn" en el html, 
+# es un data attribute data-nombre-definido
+
+# utilizar iife
+# immediatly invoked function expression
+# se utiliza para mantener seguras las funciones y que el usuario no acceda a ellas
